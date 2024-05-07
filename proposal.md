@@ -2,7 +2,6 @@
 
 ## Grupo
 ### Integrantes
-* 51322 - Cilfone, Angel
 * 50306 - Bay, Victoria
 * 47658 - Bianchi, Ignacio
 * 47051 - Cabezas, Sarahis
